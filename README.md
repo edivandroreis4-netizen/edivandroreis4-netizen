@@ -26,4 +26,4 @@
 ---
 
 ## 📫 Contato
-- LinkedIn: (www.linkedin.com/in/edivandrolima-dev)
+- LinkedIn: (- LinkedIn: https://www.linkedin.com/in/edivandrolima.dev)
