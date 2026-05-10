@@ -22,6 +22,14 @@
 
 ## 🌐 Projetos online
 - https://edivandroreis4-internauta.github.io/LinkBio-Do-Neymar-Jr/
+- https://pousada-web-site.vercel.app/
+- https://projeto-site-provedor-hazel.vercel.app/
+- https://cafeteria-bice-five.vercel.app/
+- https://pete-puce.vercel.app/
+- https://imobiliaria-sa.vercel.app/
+
+  
+
 
 ---
 
