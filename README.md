@@ -27,6 +27,7 @@
 - https://cafeteria-bice-five.vercel.app/
 - https://pete-puce.vercel.app/
 - https://imobiliaria-sa.vercel.app/
+- https://projeto-clinica-rose.vercel.app/
 
   
 
