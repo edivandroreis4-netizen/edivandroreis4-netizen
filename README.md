@@ -10,6 +10,7 @@
 - HTML5
 - CSS3
 - Git e GitHub
+- JavaScript
 
 ---
 
