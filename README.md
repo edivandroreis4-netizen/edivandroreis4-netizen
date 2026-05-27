@@ -30,6 +30,7 @@
 - https://imobiliaria-sa.vercel.app/
 - https://projeto-clinica-rose.vercel.app/
 - https://agencia-de-viagens-lovat-one.vercel.app/
+- https://github.com/edivandroreis4-netizen/projeto-frases-da-sorte/tree/main
 
   
 
