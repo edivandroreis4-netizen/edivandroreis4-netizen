@@ -51,13 +51,12 @@ Atualmente estou estudando e praticando lógica de programação, desenvolviment
 
 ## 🌍 Projetos online
 
-- [Linkbio Neymar](•	https://edivandroreis4-internauta.github.io/LinkBio-Do-Neymar-Jr/)
-- [Site Pousada](•	https://pousada-web-site.vercel.app/)
-- [Site Imobiliária](•	https://imobiliaria-sa.vercel.app/)
+- [Linkbio Neymar](https://edivandroreis4-internauta.github.io/LinkBio-Do-Neymar-Jr/)
+- [Site Pousada](https://pousada-web-site.vercel.app/)
+- [Site Imobiliária](https://imobiliaria-sa.vercel.app/)
 - [Projeto Frases da Sorte](https://github.com/edivandroreis4-netizen/projeto-frases-da-sorte)
-- - [Calculadora de Conversões Web](https://calculadora-conversoes-web.vercel.app/)  
+- [Calculadora de Conversões Web](https://calculadora-conversoes-web.vercel.app/)  
   Projeto desenvolvido com HTML, CSS e JavaScript para converter Celsius em Fahrenheit e quilômetros em milhas, utilizando manipulação do DOM, eventos e validação de formulário.
-
 ---
 
 ## 🎯 Objetivo atual
