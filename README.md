@@ -52,7 +52,7 @@ Atualmente estou estudando e praticando lógica de programação, desenvolviment
 ## 🌍 Projetos online
 - [Calculadora de Juros](https://projeto-calculo-de-juros.vercel.app/)  
   Aplicação web responsiva para cálculo de juros em dívidas atrasadas, desenvolvida com HTML, CSS e JavaScript. O projeto trabalha com validação de formulário, manipulação do DOM, cálculo de porcentagem, responsividade e formatação monetária.
-  - [Repositório no GitHub](https://github.com/edivandroreis4-netizen/projeto-calculo-de-juros)
+ - [Repositório no GitHub](https://github.com/edivandroreis4-netizen/projeto-calculo-de-juros)
 
 - [Linkbio Neymar](https://edivandroreis4-internauta.github.io/LinkBio-Do-Neymar-Jr/)
 - [Site Pousada](https://pousada-web-site.vercel.app/)
