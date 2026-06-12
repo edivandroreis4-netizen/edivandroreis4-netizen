@@ -58,6 +58,9 @@ Atualmente estou estudando e praticando lógica de programação, desenvolviment
 - [Site Pousada](https://pousada-web-site.vercel.app/)
 - [Site Imobiliária](https://imobiliaria-sa.vercel.app/)
 - [Projeto Frases da Sorte](https://github.com/edivandroreis4-netizen/projeto-frases-da-sorte)
+- [Frase do Dia de Padre Pio](https://frase-padre-pio.vercel.app/)  
+  Aplicação web responsiva com HTML, CSS e JavaScript, desenvolvida para exibir uma frase diária inspirada em São Padre Pio. O projeto utiliza manipulação do DOM, arrays, datas com JavaScript, eventos de clique, botão para copiar mensagem e deploy na Vercel.  
+  [Repositório no GitHub](https://github.com/edivandroreis4-netizen/frase-padre-pio)
 - [Calculadora de Conversões Web](https://calculadora-conversoes-web.vercel.app/)  
   Projeto desenvolvido com HTML, CSS e JavaScript para converter Celsius em Fahrenheit e quilômetros em milhas, utilizando manipulação do DOM, eventos e validação de formulário.
 ---
