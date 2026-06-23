@@ -10,11 +10,14 @@ Atualmente estou estudando e praticando lógica de programação, desenvolviment
 
 - HTML5
 - CSS3
-- JavaScript
-- Git e GitHub
-- Portugol Studio
-- Lógica de Programação
-
+- JavaScript ES6+
+- Git
+- GitHub
+- Responsive Design
+- Acessibilidade
+- Vercel
+- Chart.js
+- PWA
 ---
 
 ## 📚 Áreas de interesse
@@ -67,11 +70,20 @@ Atualmente estou estudando e praticando lógica de programação, desenvolviment
 
 ## 🎯 Objetivo atual
 
-Meu objetivo é continuar evoluindo como desenvolvedor, criando projetos práticos para fortalecer minha base em programação, melhorar minha lógica, aprender boas práticas e construir um portfólio sólido.
-
+Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Front-End ou Full Stack Júnior, aplicando HTML, CSS, JavaScript e boas práticas de desenvolvimento para criar soluções web modernas, responsivas e acessíveis.
 ---
 
 ## 📫 Contato
 
+## 🚀 Projetos Recentes
+
+### 🎯 Gerador Inteligente Lotofácil
+Aplicação web com geração de jogos, conferência de resultados, dashboard estatístico, histórico e instalação como aplicativo (PWA).
+
+### 💰 Controle de Vendas e Comissão
+Sistema desenvolvido para controle de vendas, cálculo de comissões e acompanhamento de metas.
+
+### 📊 Salário x Inflação
+Dashboard econômico desenvolvido com HTML, CSS, JavaScript e Chart.js para análise de dados.
 - LinkedIn: [Meu LinkedIn](www.linkedin.com/in/edivandrolima-dev)
 - GitHub: [edivandroreis4-netizen](https://github.com/edivandroreis4-netizen)
